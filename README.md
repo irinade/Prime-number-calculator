@@ -1,4 +1,4 @@
-# Prime-number-calculator
+# Prime-number-calculator in python
 These are prime numbers calculators that will print a list of every prime number from 2 to a maximum value that you input.
 
 Prime-number-calculator_1 iterates a list of non-primes numbers, a list of all numbers from 2 to a maximum value that you input, and it creates a list of prime numbers by doing the difference between the first two lists.
