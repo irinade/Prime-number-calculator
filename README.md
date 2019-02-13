@@ -4,3 +4,5 @@ These are prime numbers calculators that will print a list of every prime number
 Prime-number-calculator_1 iterates a list of non-primes numbers, a list of all numbers from 2 to a maximum value that you input, and it creates a list of prime numbers by doing the difference between the first two lists.
 
 Prime-number-calculator_2 define a function that tells if a given number is a prime number. Then it creates a list of all prime numbers in a range of 2 to a maximum value that you input, defining with the function if each number is prime or not.
+
+Prime-number-calculator_3 iterates a list of primes numbers starting by 2, and divide any numbers by this list. It also uses the time function to have an estimation of how quick the program is.
